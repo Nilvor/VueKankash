@@ -1,0 +1,6 @@
+{
+  "appId": "ir.kankash.app",
+  "appName": "kankash",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
